@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #222;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 10px;
+}
+
+#gameCanvas {
+  border: 2px solid #fff;
+  display: block;
+  margin: 0 auto;
+  background-color: #444;
+}
+
+#restartButton {
+  display: none; /* Скрыто по умолчанию */
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 20px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#restartButton:hover {
+  background-color: #0056b3;
+}
