@@ -678,6 +678,7 @@ html, body {
   padding: 12px 24px;
   border-radius: 30px;
   font-size: 1rem;
+  font-family: "Comfortaa", sans-serif;
   font-weight: 600;
   cursor: pointer;
   transition: background-color 0.3s;
@@ -1228,6 +1229,7 @@ html, body {
   z-index: 9999;
   overflow: hidden;
 } */
+
 
 
 
